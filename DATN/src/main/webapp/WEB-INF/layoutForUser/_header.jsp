@@ -15,7 +15,7 @@
     <div id="overlay" style="display: none;"></div>
 
     <!-- scroll top -->
-    <a class="scroll-top link-text" href="#home">Top</a>
+    <a class="scroll-top link-text" href="#home">Lên Đầu</a>
 
     <!-- page wrapper -->
     <div class="page-wrapper">
@@ -36,30 +36,30 @@
                     <ul class="navbar-nav menu" id="mainNav">
                         <li class="nav-item menu-item menu-item-current menu-item-has-child">
                             <a class="nav-link"
-                            href="index">Home</a>
+                            href="index">Trang chủ</a>
                             
                         </li>
                         <li class="nav-item menu-item">
-                            <a class="nav-link" href="services">Services</a>
+                            <a class="nav-link" href="services">Dịch vụ</a>
                         </li>
                         <li class="nav-item menu-item">
-                            <a class="nav-link" href="contactus">Contact</a>
+                            <a class="nav-link" href="contactus">Liên hệ</a>
                         </li>
                         <li class="nav-item menu-item menu-item-has-child">
-                            <a class="nav-link" href="#">News</a>
+                            <a class="nav-link" href="#">Tin tức</a>
                             <ul class="sub-menu">
                                 <li><a href="pageblog">Blog Grid</a></li>
                                 <li><a href="pageblogdetails">Blog Details</a></li>
                             </ul>
                         </li>
                         <li class="nav-item menu-item">
-                            <a class="nav-link" href="pagepricing">Pricing</a>
+                            <a class="nav-link" href="pagepricing">Đánh giá</a>
                         </li>
                         <li class="nav-item menu-item">
-                            <a class="nav-link" href="aboutus">About Us</a>
+                            <a class="nav-link" href="aboutus">Giới thiệu</a>
                         </li>
                         <li class="nav-item menu-item menu-item-has-child">
-                            <a class="nav-link" href="#">Account</a>
+                            <a class="nav-link" href="#">Tài khoản</a>
                             <ul class="sub-menu">
                                 <li><a href="login">Login</a></li>
                             </ul>
@@ -124,15 +124,15 @@
                 <div class="content-wrap">
                     <h1 class="title">Natuspa</h1>
                     <p class="text">
-                        For us, itâs been about a journey, not a race to build a legacy and reputation of being the
-                        best,
-                        delivering the best and creating a Natuspa culture that we are proud of each and every day.
+                        Đối với chúng tôi, 
+                        đó là một cuộc hành trình chứ không phải một cuộc chạy đua để xây dựng di sản và danh tiếng là người giỏi nhất, 
+                        mang đến những gì tốt nhất và tạo ra một nền văn hóa Natuspa mà chúng tôi tự hào mỗi ngày.
                     </p>
                     <span class="menu-popup-img"><img src="/forUser/imgs/summer-sale.jpg" alt="Sale"></span>
                     <div class="contact-popup-info">
                         <h2 class="title">Contact Us</h2>
                         <div class="address">
-                            <span>145 Franklin St, Redpoint Eval</span>
+                            <span>145 Trần Hưng Đạo, DX01, Hồ Chính Minh</span>
                         </div>
                         <div class="email">
                             <span>Natuspa@email-themes.com</span>
@@ -167,37 +167,37 @@
                     <div class="slide-item active">
                         <img src="/forUser/imgs/slide_1.jpg" alt="slide one">
                         <div class="slide-text">
-                            <h3>Welcome to Natuspa !</h3>
-                            <h1>BE YOUR BEST</h1>
-                            <p>Enter a relaxing atmosphere of comfort. Natuspa is a peaceful refuge from your
-                                complicated
-                                and
-                                high stress lifestyle. leave feeling refreshed, beautiful, and more relaxed than ever.
+                            <h3>Chào mừng đến với Natuspa!</h3>
+                            <h1>Tốt nhất cho bạn</h1>
+                            <p>Bước vào một bầu không khí thư giãn thoải mái. 
+                            Natuspa là nơi ẩn náu yên bình khỏi lối sống phức tạp và căng thẳng cao độ của bạn. 
+                            Để lại cảm giác sảng khoái, xinh đẹp và thư thái hơn bao giờ hết.
                             </p>
-                            <button class="btn book-now-btn">book now</button>
+                            <button class="btn book-now-btn">Đặt bây giờ</button>
                         </div>
                     </div>
                     <div class="slide-item">
                         <img src="/forUser/imgs/slide_2.jpg" alt="slide two">
                         <div class="slide-text" style="text-align: left;">
-                            <h3>Welcome to Natuspa !</h3>
-                            <h1>BE YOUR BEST</h1>
-                            <p>You deserve a break. discover again what it means to be at ease, feel better & enjoy the
-                                long
-                                lasting benefits of the spavia experience.
+                            <h3>Chào mừng đến với Natuspa!</h3>
+                            <h1>Tốt nhất cho bạn</h1>
+                            <p>Bạn xứng đáng được nghỉ ngơi. 
+                            Khám phá lại ý nghĩa của việc thoải mái, 
+                            cảm thấy tốt hơn và tận hưởng những lợi ích lâu dài của trải nghiệm spavia.
                             </p>
-                            <button class="btn book-now-btn">book now</button>
+                            <button class="btn book-now-btn">Đặt bây giờ</button>
                         </div>
                     </div>
                     <div class="slide-item">
                         <img src="/forUser/imgs/slide_3.jpg" alt="slide three">
                         <div class="slide-text" style="text-align: right;">
-                            <h3>Welcome to Natuspa !</h3>
-                            <h1>BE YOUR BEST</h1>
-                            <p>set aside the chaos of your daily routines and make time for yourself let the spavia team
-                                recharge and refocus your body and mind.
+                            <h3>Chào mừng đến với Natuspa!</h3>
+                            <h1>Tốt nhất cho bạn</h1>
+                            <p>Hãy gác lại sự hỗn loạn trong thói quen hàng ngày của bạn
+                             và dành thời gian cho bản thân để nhóm spavia nạp lại năng lượng và
+                              tập trung lại cơ thể và tâm trí của bạn.
                             </p>
-                            <button class="btn book-now-btn">book now</button>
+                            <button class="btn book-now-btn">Đặt bây giờ</button>
                         </div>
                     </div>
                 </div>

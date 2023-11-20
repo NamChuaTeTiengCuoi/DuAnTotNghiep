@@ -12,22 +12,19 @@
                     </div>
                 </div>
                 <div class="about-main-text col-lg-6 col-md-12">
-                    <h2 class="section-title">Our Story !</h2>
+                    <h2 class="section-title">Câu Chuyện Của Chúng Ta !</h2>
                     <div class="sub-heading">
-                        <em>Natuspa opened its doors with a mission and vision of making a positive difference in the
-                            world.</em>
+                        <em>Natuspa mở cửa với sứ mệnh và tầm nhìn tạo ra sự khác biệt tích cực trong xã hội thế giới.</em>
                     </div>
-                    <p class="text-box">September 25, 2005, Natuspa opened its doors with a mission and vision of making
-                        a
-                        positive difference in the world one guest at a time and delivering an exceptional our guests
-                        couldnât live without. for us, itâs been about a journey, not a race to build a legacy and
-                        reputation of being the best, delivering the best and creating a Natuspa culture that we are
-                        proud
-                        of each and every day. we are humbled and grateful for the opportunity to open our doors each
-                        day,
-                        create exceptional experiences and give back to our communities.
+                    <p class="text-box">Ngày 25 tháng 9 năm 2005, Natuspa mở cửa với sứ mệnh và 
+                    tầm nhìn tạo ra Một sự khác biệt tích cực trên thế giới, mỗi lần một vị khách và 
+                    mang đến sự đặc biệt cho những vị khách 
+                    của chúng tôi không thể sống thiếu. đối với chúng tôi, đó là một cuộc hành trình chứ không phải một cuộc chạy đua để 
+                    xây dựng di sản và danh tiếng là người giỏi nhất, mang lại điều tốt nhất và tạo ra nền văn hóa 
+                    Natuspa mà chúng tôi đang hướng tới tự hào của mỗi ngày. chúng tôi khiêm tốn và biết ơn cơ hội được mở cửa mỗi ngày, 
+                    tạo ra những trải nghiệm đặc biệt và cống hiến cho cộng đồng của chúng tôi.
                     </p>
-                    <a class="link-text text-linear-effect">Read More</a>
+                    <a class="link-text text-linear-effect">ĐỌC THÊM</a>
                 </div>
             </div>
             <iframe src="https://www.youtube.com/embed/zHCyHodIlCY" frameborder="0"
@@ -38,41 +35,31 @@
             <div class="spacer-clearfix" style="height: 80px;"></div>
         </div>
 
-        <!-- testimonial section -->
+         <!-- testimonial section -->
         <div class="testimonial-section container" id="testimonial">
-            <div class="section-title">Our Client Say</div>
+            <div class="section-title">Khách Hàng Của Chúng Tôi Nói</div>
             <div class="spacer-clearfix" style="height: 35px;"></div>
             <blockquote>
                 <div class="slick-slide-cite">
                     <p>
-                        Iâve been coming here for over 10 years and the service is on point. The staff is very
-                        professional and know what theyâre doing. If you want to go somewhere that is actually relaxing,
-                        come
-                        here!
+                        Tôi đã đến đây hơn 10 năm và dịch vụ rất tốt. Các nhân viên rất chuyên nghiệp và biết họ đang làm gì. 
+                        Nếu bạn muốn đi đâu đó thực sự thư giãn, hãy đến đây!
                     </p>
                     <p>
-                        Iâve been coming here for over 10 years and the service is on point. The staff is very
-                        professional and know what theyâre doing. If you want to go somewhere that is actually relaxing,
-                        come
-                        here!
+                        Tôi đã đến đây hơn 10 năm và dịch vụ rất tốt. Các nhân viên rất chuyên nghiệp và biết họ đang làm gì. 
+                        Nếu bạn muốn đi đâu đó thực sự thư giãn, hãy đến đây!
                     </p>
                     <p>
-                        Iâve been coming here for over 10 years and the service is on point. The staff is very
-                        professional and know what theyâre doing. If you want to go somewhere that is actually relaxing,
-                        come
-                        here!
+                        Tôi đã đến đây hơn 10 năm và dịch vụ rất tốt. Các nhân viên rất chuyên nghiệp và biết họ đang làm gì. 
+                        Nếu bạn muốn đi đâu đó thực sự thư giãn, hãy đến đây!
                     </p>
                     <p>
-                        Iâve been coming here for over 10 years and the service is on point. The staff is very
-                        professional and know what theyâre doing. If you want to go somewhere that is actually relaxing,
-                        come
-                        here!
+                        Tôi đã đến đây hơn 10 năm và dịch vụ rất tốt. Các nhân viên rất chuyên nghiệp và biết họ đang làm gì. 
+                        Nếu bạn muốn đi đâu đó thực sự thư giãn, hãy đến đây!
                     </p>
                     <p>
-                        Iâve been coming here for over 10 years and the service is on point. The staff is very
-                        professional and know what theyâre doing. If you want to go somewhere that is actually relaxing,
-                        come
-                        here!
+                        Tôi đã đến đây hơn 10 năm và dịch vụ rất tốt. Các nhân viên rất chuyên nghiệp và biết họ đang làm gì. 
+                        Nếu bạn muốn đi đâu đó thực sự thư giãn, hãy đến đây!
                     </p>
                 </div>
                 <div class="slick-slide-figure-img">
@@ -86,27 +73,27 @@
                 <div class="slick-slide-figure-info">
                     <div class="infomation">
                         <div class="name">jessica Speckert</div>
-                        <div class="position">Customer</div>
+                        <div class="position">Khách Hàng</div>
                     </div>
                     <div class="infomation">
                         <div class="name">Maria Green</div>
-                        <div class="position">Customer</div>
+                        <div class="position">Khách Hàng</div>
                     </div>
                     <div class="infomation">
                         <div class="name">Fiona Speckert</div>
-                        <div class="position">Customer</div>
+                        <div class="position">Khách Hàng</div>
                     </div>
                     <div class="infomation">
                         <div class="name">jessica Speckert</div>
-                        <div class="position">Customer</div>
+                        <div class="position">Khách Hàng</div>
                     </div>
                     <div class="infomation">
                         <div class="name">Michelle Martin</div>
-                        <div class="position">Customer</div>
+                        <div class="position">Khách Hàng</div>
                     </div>
                     <div class="infomation">
                         <div class="name">Margie Edwards</div>
-                        <div class="position">Customer</div>
+                        <div class="position">Khách Hàng</div>
                     </div>
                 </div>
             </blockquote>
@@ -119,16 +106,16 @@
                 <div class="row">
                     <div class="spacer-clearfix" style="height: 90px;"></div>
                     <div class="heading col-12">
-                        <div class="pre-heading">Make an appointment</div>
-                        <div class="main-heading">premium<br>Collection</div>
-                        <div class="sub-heading">Up to 50% Off Sale</div>
+                        <div class="pre-heading">Đặt Lịch Hẹn</div>
+                        <div class="main-heading">CAO CẤP<br>BỘ SƯU TẬP</div>
+                        <div class="sub-heading">Giảm giá tới 50%</div>
                     </div>
                     <div class="spacer-clearfix" style="height: 60px;"></div>
                     <div class="appointment-form col-12">
                         <form action="/action_page.php">
                             <div class="row">
                                 <div class="form-input col-lg-4 col-md-6 col-sm-12 your-name">
-                                    <input type="text" name="name" id="name" placeholder="Full Name">
+                                    <input type="text" name="name" id="name" placeholder="Họ và tên">
                                     <div class="error">( <span>*</span> )</div>
                                 </div>
                                 <div class="form-input col-lg-4 col-md-6 col-sm-12 your-email">
@@ -136,29 +123,29 @@
                                     <div class="error">( <span>*</span> )</div>
                                 </div>
                                 <div class="form-input col-lg-4 col-md-6 col-sm-12 your-phone-number">
-                                    <input type="text" name="phone-number" id="phone-number" placeholder="Phone Number">
+                                    <input type="text" name="phone-number" id="phone-number" placeholder="Số điện thoại">
                                     <div class="error">( <span>*</span> )</div>
                                 </div>
                                 <div class="form-input col-lg-4 col-md-6 col-sm-12 preferred-date">
                                     <input type="text" name="preferred-date" id="datepicker"
-                                        placeholder="Preferred Date" autocomplete="off">
+                                        placeholder="Ngày ưa thích" autocomplete="off">
                                     <div class="error">( <span>*</span> )</div>
                                 </div>
                                 <div class="form-input col-lg-4 col-md-6 col-sm-12 your-service">
-                                    <div class="current-option" data-value="0">Type Of Services</div>
+                                    <div class="current-option" data-value="0">Loại dịch vụ</div>
                                     <div class="error">( <span>*</span> )</div>
                                     <span class="dropdown-icon"><i class="fal fa-chevron-down down"></i></span>
                                     <ul class="option-menu">
-                                        <li class="option" data-value="0">Type Of Services</li>
-                                        <li class="option" data-value="1">Natural Waxing</li>
-                                        <li class="option" data-value="1">Signature Massage</li>
-                                        <li class="option" data-value="1">Natural Nails Care</li>
-                                        <li class="option" data-value="1">Body Treatments</li>
-                                        <li class="option" data-value="1">Derm Young Facial</li>
+                                        <li class="option" data-value="0">Loại dịch vụ</li>
+                                        <li class="option" data-value="1">Tẩy lông tự nhiên</li>
+                                        <li class="option" data-value="1">Massage đặc trưng</li>
+                                        <li class="option" data-value="1">Chăm sóc móng tay tự nhiên</li>
+                                        <li class="option" data-value="1">Điều trị cơ thể</li>
+                                        <li class="option" data-value="1">Da mặt trẻ trung</li>
                                     </ul>
                                 </div>
                                 <div class="form-input col-lg-4 col-md-6 col-sm-12 submit-btn">
-                                    <input value="APPOINTMENT NOW" id="appointment-submit" name="submit"
+                                    <input value="HẸN NGAY" id="appointment-submit" name="submit"
                                         class="btn book-now-btn" disabled="disabled" style="opacity: 1;">
                                 </div>
                             </div>
@@ -173,11 +160,11 @@
         <div class="team container">
             <div class="spacer-clearfix" style="height: 70px;"></div>
             <div class="heading">
-                <h2 class="section-title">our happy team</h2>
+                <h2 class="section-title">Đội Của Chúng Tôi</h2>
                 <div class="sub-heading">
-                    <p>Natuspa is a full service salon with experts in body services, nail care, massage, waxing, skin
-                        care,
-                        and other treatments.
+                    <p>Natuspa là thẩm mỹ viện đầy đủ dịch vụ với các chuyên gia về dịch vụ cơ thể,
+                     chăm sóc móng, massage, 
+                    tẩy lông, chăm sóc da. quan tâm, và các phương pháp điều trị khác.
                     </p>
                 </div>
             </div>
@@ -187,7 +174,7 @@
                     <img src="/forUser/imgs/team/person-1-370x450.jpg" alt="Person-1">
                     <div class="infomation">
                         <h4 class="name">Emille Jenifer</h4>
-                        <div class="position">Massagist</div>
+                        <div class="position">Nhân viên Massage</div>
                     </div>
                     <ul class="social-media-icons">
                         <li class="social-media">
@@ -211,7 +198,7 @@
                     <img src="/forUser/imgs/team/person-2-370x450.jpg" alt="Person-2">
                     <div class="infomation">
                         <h4 class="name">Marsha Hoffman</h4>
-                        <div class="position">makeup expert</div>
+                        <div class="position">Nhân viên Trang Điểm</div>
                     </div>
                     <ul class="social-media-icons">
                         <li class="social-media">
@@ -235,7 +222,7 @@
                     <img src="/forUser/imgs/team/person-3-370x450.jpg" alt="Person-3">
                     <div class="infomation">
                         <h4 class="name">Emille Jenifer</h4>
-                        <div class="position">Massagist</div>
+                        <div class="position">Nhân viên Massage</div>
                     </div>
                     <ul class="social-media-icons">
                         <li class="social-media">

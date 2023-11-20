@@ -99,7 +99,7 @@
 	<tiles:insertAttribute name="body"/>
 	<tiles:insertAttribute name="footer"/>
 	
-	
+	<!-- Quảng Cáo -->
 	<div class="modal-dialog-box" style="display: none;">
         <div class="inner">
             <div class="dialog-img"><img src="/forUser/imgs/popup-img.jpg" alt="Dialog Img" style="height: 410px;"></div>

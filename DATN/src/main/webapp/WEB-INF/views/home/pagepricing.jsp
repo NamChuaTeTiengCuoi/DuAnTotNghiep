@@ -8,7 +8,7 @@
             <div class="spacer-clearfix" style="height: 80px;"></div>
             <div class="row">
                 <div class="heading col-12">
-                    <div class="main-heading section-title">pricing plan</div>
+                    <div class="main-heading section-title " >pricing plan</div>
                     <div class="sub-heading">
                         <p>Welcome to the Natuspa Day Med Spa! A wellness luxury spa centerdedicatedto inspiring Life in
                             Balance.
