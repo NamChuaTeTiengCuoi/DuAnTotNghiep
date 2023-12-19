@@ -54,7 +54,7 @@ public class services {
 		model.addAttribute("page", page);
 
 		
-		return "home/searchServices";
+		return "home/services";
 	}
 //	@RequestMapping(value = "product/detail/{id}")
 //	public String view(ModelMap model, @PathVariable("id") String id) {

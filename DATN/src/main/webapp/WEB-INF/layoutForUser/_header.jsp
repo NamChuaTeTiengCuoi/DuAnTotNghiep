@@ -42,19 +42,9 @@
                         <li class="nav-item menu-item">
                             <a class="nav-link" href="/home/services">Services</a>
                         </li>
-                        <li class="nav-item menu-item">
-                            <a class="nav-link" href="/home/contactus">Contact</a>
-                        </li>
-                        <li class="nav-item menu-item menu-item-has-child">
-                            <a class="nav-link" href="#">News</a>
-                            <ul class="sub-menu">
-                                <li><a href="/home/pageblog">Blog Grid</a></li>
-                                <li><a href="/home/pageblogdetails">Blog Details</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item menu-item">
-                            <a class="nav-link" href="/home/pagepricing">Pricing</a>
-                        </li>
+                       
+                        
+                        
                         <li class="nav-item menu-item">
                             <a class="nav-link" href="/home/aboutus">About Us</a>
                         </li>
@@ -69,7 +59,7 @@
 								</c:if>
 								<c:if test="${isLogin}">
 									<a href="profile" class="nav-link"
-										style="font-weight: bolder;">${fullname}</a>
+										 bolder;">${fullname}</a>
 	                           		 <ul class="sub-menu">
 										<li><a class="text-danger" id="btnLogOff" href="/logout" title="">[Logout]</a></li>
 									 </ul>

@@ -13,16 +13,16 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
                     <div class="login-form">
-                        <h2>Change Profile</h2>
+                        <h2>Your Profile</h2>
                         <form method="post">
                         <h5 class="text-danger">${message}</h5>
                             <div class="group-input">
 
-                                <input type="text" id="username" name="username" value="${username}" >
+                                <input type="hidden" id="username" name="username" value="${username}" readonly>
                             </div>
                             <div class="group-input">
 
-                                <input type="text" id="password" name="password" value="${password}" >
+                                <input type="hidden" id="password" name="password" value="${password}" readonly>
                             </div>
 
                             <div class="group-input">
@@ -39,7 +39,7 @@
                                 <input type="text" id="email" name="email" value="${email}" >
                             </div>
 
-                             <button type="submit" class="site-btn login-btn">Confirm</button>
+                             <button type="submit" class="site-btn login-btn">Change Profile</button>
                         </form>
                     </div>
                 </div>
