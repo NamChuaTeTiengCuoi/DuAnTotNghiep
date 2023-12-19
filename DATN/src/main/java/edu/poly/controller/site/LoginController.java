@@ -40,8 +40,7 @@ public class LoginController {
 	@PostMapping("login")
 	public String loginPost(Model model) {
 		String username = paramService.getString("username", "");
-		String password = paramService.getString("password", "");
-		
+		String password = paramService.getString("password", "");	
 		boolean remember = paramService.getBoolean("remember", false);
 		try {
 			Customer user = cusDAO.findById(username).get();

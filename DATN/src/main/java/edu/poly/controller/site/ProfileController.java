@@ -1,5 +1,7 @@
 package edu.poly.controller.site;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +11,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import edu.poly.dao.BillDAO;
 import edu.poly.dao.CustomerDAO;
+import edu.poly.model.Bill;
 import edu.poly.model.Customer;
 import edu.poly.model.Staff;
 import edu.poly.utils.ParamService;
@@ -20,6 +24,8 @@ import edu.poly.utils.SessionService;
 public class ProfileController {
 	@Autowired
 	CustomerDAO dao;
+	@Autowired
+	BillDAO Bdao;
 	
 	@Autowired
 	ParamService paramService;
@@ -28,7 +34,15 @@ public class ProfileController {
 	SessionService sessionService;
 	
 	@RequestMapping("profile")
-	public String profile() {
+	public String profile(Model model) {
+		Customer user = sessionService.get("user");
+		List<Bill> bill = new ArrayList<>();
+		for (Bill bill2 : Bdao.findAll()) {
+			if(bill2.getAccount().getUsername().equals(user.getUsername())) {
+				bill.add(bill2);			
+			}
+		}
+		model.addAttribute("bill", bill);
 		return "home/profile";
 	}
 	
